@@ -1,0 +1,9 @@
+.box1 {
+  display: none; /* app5-1.cssの記述に追加した記述 */
+  background-color: #FF0000;
+  height: 200px;
+  width: 200px;
+}
+
+/* jQueryは、HTMLがすべて読み込まれてから動作するように設定する必要がある */
+/* box1が最初は非表示になるように、display: none;を追加 */
